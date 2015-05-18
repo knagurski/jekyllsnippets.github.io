@@ -13,7 +13,7 @@ I created a file called `site.json` and added these contents:
 {% highlight html %}
   {% raw %}
     ---
-    layout: nil
+    layout: null
     ---
 
     [
